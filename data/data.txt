@@ -1,0 +1,76 @@
+Ville Emard is a neighborhood  located in the coolest area of Montreal
+SAP Cloud Foundry runtime lets you develop polyglot cloud-native applications and run them on the SAP BTP Cloud Foundry environment.
+
+SAP WorkZone standard edition service enables organizations to establish a central point of access to SAP (e.g. SAP S/4HANA), custom-built, and third-party applications and extensions, both on the cloud and on-premise.
+
+SAP Integration Suite connects and contextualizes processes and data while enabling new content-rich applications to be assembled faster with less dependence on IT. Pre-built integration packs along with existing investments can be composed to deliver new outcomes with less involvement by integration experts.
+aka Cloud Platform Integration (CPI) Open Connectors & API Management. helps customers share digital assets and processes beyond traditional applications and websites. It enables developer communities to consume digital assets in new channels, devices, and user interfaces with ease. APIs available in this package are related to API Portal, Developer Portal for Neo, and API Business Hub Enterprise for Cloud Foundry.
+Access APIs seamlessly across heterogeneous landscapes using one API platform
+
+SAP BTP, Kyma runtime is a fully managed Kubernetes runtime based on the open-source project “Kyma”. This cloud-native solution allows the developers to extend SAP solutions with serverless Functions and combine them with containerized microservices. The offered functionality ensures smooth consumption of SAP and non-SAP applications, running workloads in a highly scalable environment, and building event- and API-based extensions.
+
+SAP Business Application Studio (the next generation of SAP Web IDE) is a powerful and modern development environment, tailored for efficient development of business applications for the Intelligent Enterprise. Available as a cloud service, it provides developers a desktop-like experience similar to market-leading IDEs, while accelerating time-to-market with high-productivity development tools such as wizards and templates, graphical editors, quick deployment, and more.
+
+SAP Job Scheduling service allows you to define and manage jobs that run once or on a recurring schedule. Use this runtime-agnostic service to schedule action endpoints in your application or long-running processes using Cloud Foundry tasks. Use REST APIs to schedule jobs, including long-running jobs asynchronously, and create multiple schedule formats for simple and complex recurring schedules. Manage jobs and tasks and manage schedules with a web-based user interface.
+
+SAP Build Process Automation  lets you automate enterprise business processes. Design process automations with the Desktop Studio by creating end-to-end scenarios. Import these scenarios into the cloud Factory powered by SAP BTP to configure and execute them with Agents. Agents running on workstations can work as a Digital Assistant (attended automation) or as a Digital Worker (unattended automation).
+
+SAP Build Apps offers a no-code app development platform that creates applications for the Web and for native mobile use. It has powerful visual development environment that is extraordinarily user-friendly. It allows business users without prior coding experience to build sophisticated applications that work seamlessly across all operating systems – all without writing a single line of code. On the other hand, professional developers will enjoy a significant boost in productivity by being able to work on the higher abstraction levels provided by the visual tooling.
+
+The HTML5 Application Repository service for SAP BTP enables central storage of HTML5 applications on SAP BTP. The service allows application developers to manage the lifecycle of their HTML5 applications. In runtime, the service enables the consuming application, typically the application router, to access HTML5 application static content in a secure and efficient manner.
+
+SAP Continuous Integration and Delivery lets you configure and run predefined continuous integration and delivery (CI/CD) pipelines that automatically test, build, and deploy your code changes to speed up your development and delivery cycles.
+
+
+The Destination service lets you retrieve the backend destination details you need to configure applications in the Cloud Foundry environment.
+
+
+SAP HANA Cloud is a data platform-as-a-service that offers the power and performance of SAP HANA natively in the cloud, including full capabilities to manage data storage, federate, and run powerful applications. Using SAP HANA Cloud, you can set up and run a data management platform and data lake and then bind them to applications running on SAP BTP or elsewhere. You can access SAP HANA Cloud using a variety of languages and interfaces, as well as build applications and data models.
+
+
+SAP Datasphere enables a business data fabric architecture that uniquely harmonizes mission-critical data across the organization, unleashing business experts to make the most impactful decisions. It combines previously discrete capabilities into a unified service for data integration, cataloging, semantic modeling, data warehousing, and virtualizing workloads across SAP and non-SAP data.
+
+Data Modeling
+Use graphical low-code/no-code tools and powerful built-in SQL and data flow editors for modeling, transformation, and replication needs. Enrich existing datasets with external data, coming from the Data Marketplace, CSV uploads, and 3rd party sources.
+Business Modeling
+Use graphical low-code/no-code tools that support self-service modeling needs for business users, multi-dimensional modeling with powerful analytical capabilities, and a built-in data preview.
+Data Integration
+Connect to SAP and non-SAP cloud and on-premise sources, including data lakes, to federate, replicate, or transform and load data. Re-use and migrate trusted meta and data models residing in SAP Business Warehouse and SAP SQL Data Warehouse implementations.
+Space Management
+Centrally create and provision spaces to provide secure modeling environments for different departments or use cases. Allocate disk and in-memory storage to spaces, set their priority, add users, and use monitoring and logging tools to manage spaces.
+Administration
+Configure and manage the SAP Datasphere tenant, configure users, prepare and monitor connectivity for data integration, and perform ongoing monitoring and maintenance of the tenant.
+Data Protection and Privacy
+Define security on all layers. Manage access on tenant, functional, and space level, and configure secure connectivity to sources. Manage data access by defining row-level security on data and business layer. Enable auditing for read and change operations.
+Data Governance
+Publish high-quality trusted data and analytic assets, glossary terms, and key performance indicators to a Catalog to support self-service discovery and to promote their reuse.
+Consumption
+Seamlessly integrate with SAP Analytics Cloud, Microsoft Excel, and public OData APIs to support consumption by other clients, tools, and apps.
+
+
+Develop ABAP applications in the cloud
+Use the ABAP RESTful Application Programming Model with its data modelling capabilities based on SAP HANA to develop SAP Fiori applications and web services in the cloud. Access a variety of SAP BTP services to implement innovative use cases.
+Extend SAP and non-SAP applications
+Leverage the SAP BTP connectivity infrastructure to extend SAP and non-SAP applications running on premise and in the cloud.
+Utilize a modern development toolset
+Use Eclipse-based ABAP Development Tools (ADT) as an environment for your ABAP development projects.
+Manage the code lifecycle
+Make use of a default integration with Git to execute lifecycle management activities.
+Migrate custom code to the cloud
+Leverage a comprehensive set of tools to analyze and transform your custom ABAP assets to the cloud.
+
+
+SAP Advanced Event Mesh allows applications to communicate through asynchronous events.
+
+Experience greater agility and scalability when you create responsive applications that work independently and participate in event-driven business processes across your business ecosystem.
+
+Features
+Publish business events
+Publish business events from SAP and non-SAP sources across hybrid landscapes from the digital core to extension applications through event-driven architecture.
+
+Consume business events
+Consume business events from SAP and non-SAP sources throughout SAP’s event-driven ecosystem including SAP Extension Suite, SAP Integration Suite, and selected inbound enabled SAP backends.
+
+Connect seamlessly
+Achieve reliable data transmission for extension and integration scenarios through decoupled communication.
+

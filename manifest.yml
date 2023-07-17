@@ -1,0 +1,8 @@
+---
+applications:
+- name: myai
+  random-route: true
+  path: ./
+  memory: 512M
+  buildpack: python_buildpack
+  command: python chatgpt.py
